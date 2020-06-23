@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f3830fa779ce142a2997ddf3915741, type: 3}
+  m_Name: "\u5BFB\u627E\u957F\u9CB8"
+  m_EditorClassIdentifier: 
+  questName: "\u5BFB\u627E\u957F\u9CB8"
+  questDescription: "\u6211\u4E0D\u5C0F\u5FC3\u5C06\u957F\u9CB8\u4E22\u5931\u5728\u4E86\u8DEF\u4E0A\uFF0C\u8BF7\u4F60\u5E2E\u6211\u53BB\u5BFB\u627E\u4E00\u4E0B\uFF0C\u4E8B\u6210\u4E4B\u540E\u6211\u5C06\u4E3A\u4F60\u6253\u9020\u4E00\u628A\u957F\u9CB8\n"
+  collectObjectives:
+  - amount: 1
+    type: "\u957F\u9CB8"
+  killObjectives: []
+  level: 1
+  exp: 300
+  money: 0
+  rewardItems:
+  - {fileID: 11400000, guid: 2a8734ae20b7c7f4d90c2a5b53c1c802, type: 2}
+  - {fileID: 11400000, guid: 9489ae0cda0c00044a4b22d378f63ee5, type: 2}
+  - {fileID: 11400000, guid: 32660ea433dadf24ebda8ff443d09652, type: 2}
+  - {fileID: 11400000, guid: 261ef785dc7113d48a7c0eeffd5e32c7, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba02ad89e26be549b0bbb505c7739f7, type: 3}
+  m_Name: "\u5929\u56FD\u76FE"
+  m_EditorClassIdentifier: 
+  itemName: "\u5929\u56FD\u76FE"
+  icon: {fileID: 21300000, guid: b5eaac0253a319043b576d7dd020000e, type: 3}
+  description: 
+  stackSize: 1
+  quality: 0
+  price: 100
+  armorType: 5
+  power: 5
+  physical: 0
+  intellect: 0
+  stamina: 0
+  agile: 0

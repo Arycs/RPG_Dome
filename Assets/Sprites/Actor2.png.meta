@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 269c461f80faf7748ab6d17c88d7d871
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7660376694556658679
+    second: Actor2_0
+  - first:
+      213: -4561857014506661613
+    second: Actor2_1
+  - first:
+      213: 5454207695713785799
+    second: Actor2_2
+  - first:
+      213: 6868622230883533892
+    second: Actor2_3
+  - first:
+      213: -3220508003730780959
+    second: Actor2_4
+  - first:
+      213: -1472278073956083551
+    second: Actor2_5
+  - first:
+      213: -1738433394693143962
+    second: Actor2_6
+  - first:
+      213: -7550504622513693422
+    second: Actor2_7
+  - first:
+      213: -6662477918564599993
+    second: Actor2_8
+  - first:
+      213: -5231935635929799501
+    second: Actor2_9
+  - first:
+      213: -7918907702969419748
+    second: Actor2_10
+  - first:
+      213: 8215994783977063702
+    second: Actor2_11
+  - first:
+      213: 196709911899432382
+    second: Actor2_12
+  - first:
+      213: -6553026915354518382
+    second: Actor2_13
+  - first:
+      213: 5873499487676904032
+    second: Actor2_14
+  - first:
+      213: -4352913791956688976
+    second: Actor2_15
+  - first:
+      213: 6725330858941536420
+    second: Actor2_16
+  - first:
+      213: -1860906198381801403
+    second: Actor2_17
+  - first:
+      213: -4307730032604782358
+    second: Actor2_18
+  - first:
+      213: -7287511626311957620
+    second: Actor2_19
+  - first:
+      213: -3840565028343131561
+    second: Actor2_20
+  - first:
+      213: -8416088826863856775
+    second: Actor2_21
+  - first:
+      213: 5145277609213811299
+    second: Actor2_22
+  - first:
+      213: 6937110487968661876
+    second: Actor2_23
+  - first:
+      213: 7346069844331933089
+    second: Actor2_24
+  - first:
+      213: -7382605177637787739
+    second: Actor2_25
+  - first:
+      213: 8175149201692235596
+    second: Actor2_26
+  - first:
+      213: 3382989391163937572
+    second: Actor2_27
+  - first:
+      213: 205429186637693825
+    second: Actor2_28
+  - first:
+      213: -4382302248287507394
+    second: Actor2_29
+  - first:
+      213: 515975027187211055
+    second: Actor2_30
+  - first:
+      213: 9152766412621505343
+    second: Actor2_31
+  - first:
+      213: 7568667291189543202
+    second: Actor2_32
+  - first:
+      213: -2344682770376491993
+    second: Actor2_33
+  - first:
+      213: 4583361165638890336
+    second: Actor2_34
+  - first:
+      213: 3222082973314187442
+    second: Actor2_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Actor2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f4439bffd0b590800000000000000
+      internalID: -7660376694556658679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d43e073701b0c0800000000000000
+      internalID: -4561857014506661613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d83a600d31bb40800000000000000
+      internalID: 5454207695713785799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440a28078f325f50800000000000000
+      internalID: 6868622230883533892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec035998057e43d0800000000000000
+      internalID: -3220508003730780959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8504764ea619be0800000000000000
+      internalID: -1472278073956083551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66283a3c908dfd7e0800000000000000
+      internalID: -1738433394693143962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d5024dc08373790800000000000000
+      internalID: -7550504622513693422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

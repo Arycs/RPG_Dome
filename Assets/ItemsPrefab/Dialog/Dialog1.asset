@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee36d53c0244f24f833b2faaaaa4d5b, type: 3}
+  m_Name: Dialog1
+  m_EditorClassIdentifier: 
+  contents:
+  - dialogText: "\u4F60\u597D,\u6211\u60F3\u8981\u4E00\u628A\u5251,\u4E0D\u77E5\u9053\u4F60\u80FD\u4E0D\u80FD\u7ED9\u6211\u627E\u6765."
+    npcDisplay: 1
+  - dialogText: "\u5251\u7684\u540D\u5B57\u53EB\u957F\u9CB8,\u5982\u679C\u4F60\u627E\u5230\u4E86,\u6211\u4F1A\u7ED9\u4F60\u4E00\u4E9B\u836F\u6C34."
+    npcDisplay: 1
+  haveQuest: 1
